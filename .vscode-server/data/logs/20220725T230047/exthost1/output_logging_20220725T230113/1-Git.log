@@ -1,0 +1,55 @@
+[2022-07-26T02:01:39.710Z] Log level: Info
+[2022-07-26T02:01:39.827Z] [info] Validating found git in: git
+[2022-07-26T02:01:40.554Z] [info] Using git 2.34.1 from git
+[2022-07-26T02:01:41.716Z] > git rev-parse --show-toplevel [965ms]
+[2022-07-26T02:01:41.716Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-26T02:01:41.852Z] > git rev-parse --show-toplevel [62ms]
+[2022-07-26T02:01:41.852Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-26T02:01:41.913Z] > git rev-parse --show-toplevel [16ms]
+[2022-07-26T02:01:41.913Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-26T02:01:41.985Z] > git rev-parse --show-toplevel [17ms]
+[2022-07-26T02:01:41.985Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-26T02:01:42.314Z] > git rev-parse --show-toplevel [170ms]
+[2022-07-26T02:01:42.314Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-26T02:01:42.525Z] > git rev-parse --show-toplevel [141ms]
+[2022-07-26T02:01:42.652Z] > git rev-parse --git-dir --git-common-dir [16ms]
+[2022-07-26T02:01:42.796Z] [info] Open repository: /home/eliasmorales/.nvm
+[2022-07-26T02:01:43.063Z] > git rev-parse --show-toplevel [48ms]
+[2022-07-26T02:01:43.063Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-26T02:01:43.141Z] > git rev-parse --show-toplevel [23ms]
+[2022-07-26T02:01:43.141Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-26T02:01:43.347Z] > git rev-parse --show-toplevel [141ms]
+[2022-07-26T02:01:43.419Z] > git status -z -uall [508ms]
+[2022-07-26T02:01:43.539Z] > git rev-parse --git-dir --git-common-dir [123ms]
+[2022-07-26T02:01:43.592Z] [info] Open repository: /home/eliasmorales/test
+[2022-07-26T02:01:44.122Z] > git status -z -uall [363ms]
+[2022-07-26T02:01:44.199Z] > git rev-parse --show-toplevel [143ms]
+[2022-07-26T02:01:44.200Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-26T02:01:44.214Z] > git symbolic-ref --short HEAD [728ms]
+[2022-07-26T02:01:44.214Z] fatal: ref HEAD is not a symbolic ref
+[2022-07-26T02:01:44.312Z] > git rev-parse HEAD [45ms]
+[2022-07-26T02:01:44.536Z] > git symbolic-ref --short HEAD [349ms]
+[2022-07-26T02:01:44.617Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [33ms]
+[2022-07-26T02:01:44.730Z] > git remote --verbose [216ms]
+[2022-07-26T02:01:44.759Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [304ms]
+[2022-07-26T02:01:44.924Z] > git remote --verbose [197ms]
+[2022-07-26T02:01:44.925Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [259ms]
+[2022-07-26T02:01:45.034Z] > git config --get commit.template [175ms]
+[2022-07-26T02:01:45.130Z] > git status -z -uall [39ms]
+[2022-07-26T02:01:45.168Z] > git config --get commit.template [146ms]
+[2022-07-26T02:01:45.241Z] > git status -z -uall [27ms]
+[2022-07-26T02:01:45.281Z] > git symbolic-ref --short HEAD [114ms]
+[2022-07-26T02:01:45.281Z] fatal: ref HEAD is not a symbolic ref
+[2022-07-26T02:01:45.338Z] > git rev-parse HEAD [16ms]
+[2022-07-26T02:01:45.455Z] > git symbolic-ref --short HEAD [175ms]
+[2022-07-26T02:01:45.814Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [308ms]
+[2022-07-26T02:01:45.951Z] > git remote --verbose [500ms]
+[2022-07-26T02:01:45.955Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [591ms]
+[2022-07-26T02:01:46.118Z] > git check-ignore -v -z --stdin [583ms]
+[2022-07-26T02:01:46.136Z] > git check-ignore -v -z --stdin [482ms]
+[2022-07-26T02:01:46.149Z] > git remote --verbose [261ms]
+[2022-07-26T02:01:46.150Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [284ms]
+[2022-07-26T02:01:46.218Z] > git config --get commit.template [145ms]
+[2022-07-26T02:01:46.250Z] > git config --get commit.template [35ms]
+[2022-07-26T02:01:46.722Z] > git check-ignore -v -z --stdin [92ms]
+[2022-07-26T02:01:46.725Z] > git check-ignore -v -z --stdin [36ms]

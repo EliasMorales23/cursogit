@@ -1,0 +1,49 @@
+[2022-07-25 19:38:07.907] [remoteagent] [info] Extension host agent started.
+[2022-07-25 19:38:12.726] [remoteagent] [info] [127.0.0.1][ec8298e2][ManagementConnection] New connection established.
+[2022-07-25 19:38:13.471] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-25 19:38:15.983] [remoteagent] [info] [127.0.0.1][4063d38a][ExtensionHostConnection] New connection established.
+[2022-07-25 19:38:16.890] [remoteagent] [info] [127.0.0.1][4063d38a][ExtensionHostConnection] <1428> Launched Extension Host Process.
+[2022-07-25 19:39:17.999] [remoteagent] [info] Getting Manifest... ritwickdey.liveserver
+[2022-07-25 19:39:18.009] [remoteagent] [info] Getting Manifest... christian-kohler.path-intellisense
+[2022-07-25 19:39:18.010] [remoteagent] [info] Getting Manifest... formulahendry.auto-rename-tag
+[2022-07-25 19:39:18.011] [remoteagent] [info] Getting Manifest... pkief.material-icon-theme
+[2022-07-25 19:39:18.012] [remoteagent] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-07-25 19:39:18.012] [remoteagent] [info] Getting Manifest... naumovs.color-highlight
+[2022-07-25 19:39:18.900] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2022-07-25 19:39:19.732] [remoteagent] [info] Installing extension: christian-kohler.path-intellisense
+[2022-07-25 19:39:20.295] [remoteagent] [info] Installing extension: formulahendry.auto-rename-tag
+[2022-07-25 19:39:20.475] [remoteagent] [info] Installing extension: pkief.material-icon-theme
+[2022-07-25 19:39:21.152] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2022-07-25 19:39:21.502] [remoteagent] [info] Installing extension: naumovs.color-highlight
+[2022-07-25 19:39:25.344] [remoteagent] [info] Downloaded extension: christian-kohler.path-intellisense /home/eliasmorales/.vscode-server/data/CachedExtensionVSIXs/christian-kohler.path-intellisense-2.8.1
+[2022-07-25 19:39:25.502] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver /home/eliasmorales/.vscode-server/data/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.5
+[2022-07-25 19:39:27.788] [remoteagent] [info] Downloaded extension: pkief.material-icon-theme /home/eliasmorales/.vscode-server/data/CachedExtensionVSIXs/pkief.material-icon-theme-4.19.0
+[2022-07-25 19:39:28.170] [remoteagent] [info] Downloaded extension: formulahendry.auto-rename-tag /home/eliasmorales/.vscode-server/data/CachedExtensionVSIXs/formulahendry.auto-rename-tag-0.1.10
+[2022-07-25 19:39:29.039] [remoteagent] [info] Extracted extension to /home/eliasmorales/.vscode-server/extensions/.98a82034-d994-4c2d-af3d-84ec747bdb60: christian-kohler.path-intellisense
+[2022-07-25 19:39:29.115] [remoteagent] [info] Renamed to /home/eliasmorales/.vscode-server/extensions/christian-kohler.path-intellisense-2.8.1
+[2022-07-25 19:39:29.185] [remoteagent] [info] Extracting completed. christian-kohler.path-intellisense
+[2022-07-25 19:39:29.198] [remoteagent] [info] Extension installed successfully: christian-kohler.path-intellisense
+[2022-07-25 19:39:31.102] [remoteagent] [info] Extracted extension to /home/eliasmorales/.vscode-server/extensions/.ba22edd0-2273-48b8-b424-8d97744e029a: formulahendry.auto-rename-tag
+[2022-07-25 19:39:31.405] [remoteagent] [info] Downloaded extension: naumovs.color-highlight /home/eliasmorales/.vscode-server/data/CachedExtensionVSIXs/naumovs.color-highlight-2.5.0
+[2022-07-25 19:39:31.603] [remoteagent] [info] Renamed to /home/eliasmorales/.vscode-server/extensions/formulahendry.auto-rename-tag-0.1.10
+[2022-07-25 19:39:31.699] [remoteagent] [info] Extracting completed. formulahendry.auto-rename-tag
+[2022-07-25 19:39:31.714] [remoteagent] [info] Extension installed successfully: formulahendry.auto-rename-tag
+[2022-07-25 19:39:48.736] [remoteagent] [info] Extracted extension to /home/eliasmorales/.vscode-server/extensions/.d6924b04-254a-4ad5-ad32-3326ac16bfb3: naumovs.color-highlight
+[2022-07-25 19:39:48.798] [remoteagent] [info] Renamed to /home/eliasmorales/.vscode-server/extensions/naumovs.color-highlight-2.5.0
+[2022-07-25 19:39:48.851] [remoteagent] [info] Extracting completed. naumovs.color-highlight
+[2022-07-25 19:39:48.854] [remoteagent] [info] Extension installed successfully: naumovs.color-highlight
+[2022-07-25 19:39:51.095] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode /home/eliasmorales/.vscode-server/data/CachedExtensionVSIXs/esbenp.prettier-vscode-9.5.0
+[2022-07-25 19:40:02.920] [remoteagent] [info] Extracted extension to /home/eliasmorales/.vscode-server/extensions/.72677e09-0134-4104-a593-135823a1731c: esbenp.prettier-vscode
+[2022-07-25 19:40:02.999] [remoteagent] [info] Renamed to /home/eliasmorales/.vscode-server/extensions/esbenp.prettier-vscode-9.5.0
+[2022-07-25 19:40:03.080] [remoteagent] [info] Extracting completed. esbenp.prettier-vscode
+[2022-07-25 19:40:03.101] [remoteagent] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-07-25 19:40:10.277] [remoteagent] [info] Extracted extension to /home/eliasmorales/.vscode-server/extensions/.8f9120ec-b755-4561-81e6-7b9d76900d7b: pkief.material-icon-theme
+[2022-07-25 19:40:10.334] [remoteagent] [info] Renamed to /home/eliasmorales/.vscode-server/extensions/pkief.material-icon-theme-4.19.0
+[2022-07-25 19:40:10.382] [remoteagent] [info] Extracting completed. pkief.material-icon-theme
+[2022-07-25 19:40:10.384] [remoteagent] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-07-25 19:40:13.125] [remoteagent] [info] Extracted extension to /home/eliasmorales/.vscode-server/extensions/.13df48b2-223e-41e5-8825-7b89bc8378b0: ritwickdey.liveserver
+[2022-07-25 19:40:13.149] [remoteagent] [info] Renamed to /home/eliasmorales/.vscode-server/extensions/ritwickdey.liveserver-5.7.5
+[2022-07-25 19:40:13.160] [remoteagent] [info] Extracting completed. ritwickdey.liveserver
+[2022-07-25 19:40:13.164] [remoteagent] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-07-25 19:43:58.269] [remoteagent] [info] [127.0.0.1][4063d38a][ExtensionHostConnection] <1428> Extension Host Process exited with code: 0, signal: null.
+[2022-07-25 19:43:58.311] [remoteagent] [info] [127.0.0.1][ec8298e2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

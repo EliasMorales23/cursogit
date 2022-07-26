@@ -1,0 +1,18 @@
+[2022-07-25 19:38:30.560] [exthost] [info] Extension host with pid 1428 started
+[2022-07-25 19:38:31.007] [exthost] [info] Lock '/home/eliasmorales/.vscode-server/data/User/workspaceStorage/a032be8f2baacbd8bbd8ac02ddba1348/vscode.lock': Lock acquired.
+[2022-07-25 19:38:32.108] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-25 19:38:32.646] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-25 19:38:32.712] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-25 19:38:33.449] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-25 19:38:34.771] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-25 19:38:37.102] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 19:38:37.335] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 19:38:37.398] [exthost] [info] Eager extensions activated
+[2022-07-25 19:39:34.469] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: false, activationEvent: '*'
+[2022-07-25 19:39:52.578] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: '*'
+[2022-07-25 19:40:06.680] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 19:40:15.581] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-25 19:40:26.488] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-07-25 19:43:58.081] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-25 19:43:58.083] [exthost] [info] Lock '/home/eliasmorales/.vscode-server/data/User/workspaceStorage/a032be8f2baacbd8bbd8ac02ddba1348/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-07-25 19:43:58.213] [exthost] [info] Extension host with pid 1428 exiting with code 0
