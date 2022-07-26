@@ -1,0 +1,9 @@
+[2022-07-26 20:30:34.444] [remoteagent] [info] Extension host agent started.
+[2022-07-26 20:30:39.408] [remoteagent] [info] [127.0.0.1][db8a2ef0][ManagementConnection] New connection established.
+[2022-07-26 20:30:39.842] [remoteagent] [info] [127.0.0.1][bc517142][ExtensionHostConnection] New connection established.
+[2022-07-26 20:30:40.502] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-07-26 20:30:44.438] [remoteagent] [error] ptyHost was unable to resolve shell environment {}
+[2022-07-26 20:30:44.440] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
+[2022-07-26 20:30:44.455] [remoteagent] [error] RequestService#request (node) resolving shell environment failed {}
+[2022-07-26 20:30:44.571] [remoteagent] [info] [127.0.0.1][bc517142][ExtensionHostConnection] <2476> Launched Extension Host Process.
+[2022-07-26 20:33:50.879] [remoteagent] [error] ExtensionHostConnection#buildUserEnvironment resolving shell environment failed {}
